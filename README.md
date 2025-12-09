@@ -22,5 +22,5 @@ Welcome! This repository showcases a collection of projects focused on finance, 
 
 ## 📬 Connect
 - **LinkedIn:** https://www.linkedin.com/in/christopherburpeau/  
-- **Email:** chburpeau@gmail.com
+
 
