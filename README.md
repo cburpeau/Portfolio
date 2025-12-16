@@ -14,7 +14,7 @@ Welcome! This repository showcases a collection of projects focused on finance, 
 - Black-Scholes & Binomial Option Pricing  
 - Excel Automation Script for Reporting
 
-## 🛠 Tech & Tools
+##  Tech & Tools
 - **Python** (Pandas, NumPy)  
 - **Excel / Google Sheets**  
 - **SQL**  
