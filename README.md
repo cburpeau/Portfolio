@@ -21,6 +21,6 @@ Welcome! This repository showcases a collection of projects focused on finance, 
 - **Git & GitHub**
 
 ##  Connect
-- **LinkedIn:** https://www.linkedin.com/in/christopherburpeau/  
+- **LinkedIn:** https://www.linkedin.com/in/christopherburpeau 
 
 
